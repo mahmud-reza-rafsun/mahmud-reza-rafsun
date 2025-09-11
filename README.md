@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Mahmud Reza Rafsun  
+### Frontend Web Developer | MERN Stack Enthusiast  
 
-<!--
-**mahmud-reza-rafsun/mahmud-reza-rafsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.ibb.co/5nN8dFL/coding-banner.jpg) <!-- চাইলে নিজের banner image link বসাও -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 Passionate about Web Development & building interactive UIs  
+- 🌱 Currently learning **Next.js**  
+- 🔥 Love solving problems and exploring new technologies  
+- 🎯 Goal: Become a skilled **Full Stack Developer**  
+
+---
+
+## 🛠️ Skills  
+
+- **Frontend:**  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)  
+
+- **Backend:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
+
+- **Database & Cloud:**  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
+
+---
+
+## 📬 Contact Me  
+- 🌐 Portfolio: [rafsun.vercel.app](https://rafsun.vercel.app)  
+- ✉️ Email: rafsun16.it@gmail.com  
+- 📞 Phone: 01628745520  
+
+---
+
+## 📊 GitHub Stats  
+![Rafsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafsun16&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsun16&layout=compact&theme=radical)  
+
+---
+
+⭐️ From [rafsun](https://github.com/mahmud-reza-rafsun)
