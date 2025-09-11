@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mahmud Reza Rafsun  
 ### Frontend Web Developer | MERN Stack Enthusiast  
 
-![Banner](https://i.ibb.co/5nN8dFL/coding-banner.jpg) <!-- চাইলে নিজের banner image link বসাও -->
+![Banner]([https://i.ibb.co/5nN8dFL/coding-banner.jpg](https://ibb.co.com/nqdKvwKN)) <!-- চাইলে নিজের banner image link বসাও -->
 
 ---
 
@@ -33,13 +33,6 @@
 - 🌐 Portfolio: [rafsun.vercel.app](https://rafsun.vercel.app)  
 - ✉️ Email: rafsun16.it@gmail.com  
 - 📞 Phone: 01628745520  
-
----
-
-## 📊 GitHub Stats  
-![Rafsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafsun16&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsun16&layout=compact&theme=radical)  
 
 ---
 
