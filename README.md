@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">   
-<image src="https://i.ibb.co.com/nMbghDGz/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-cen.jpg" alt="" width="100%">
+<image src="https://i.ibb.co.com/nMbghDGz/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-cen.jpg" alt="" width="100%" height="50%">
 
 ## [rafsun.vercel.app](rafsun.vercel.app)
 
@@ -14,7 +14,6 @@
 ## 🌌 About Me
 
 - Learning more about computers and how they work is my favorite hobby. The way a just box turned into the most important thing in the world really fascinates me the most.
-- Favourite books: [Life 3.0: Being Human in the Age of AI by Max Tegmark](https://www.goodreads.com/book/show/34272565-life-3-0), [Elon Musk by Walter Isaacson](https://www.goodreads.com/book/show/122765395-elon-musk), [Steve Jobs by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs), [Can't Hurt Me by David Goggins](https://www.goodreads.com/book/show/41721428-can-t-hurt-me).
 - Outside of coding, I enjoy browsing about AI, consciousness, history, and religions. I watch a lot of sci-fi movies and anime. I also enjoy long-distance running to prepare my body for sitting for long hours.
 - Fun fact: I love chocolate more than coffee, even as a developer.
 
@@ -36,7 +35,7 @@
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="3.5%"/>](https://nodejs.org/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/express-js.png" width="3.5%"/>](https://expressjs.com/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="3.5%"/>](https://www.mongodb.com/)
 
 **Productivity & Systems**  
-[<img src="https://img.icons8.com/color/48/000000/notion.png" width="3.5%"/>](https://www.notion.so/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linux.png" width="3.5%"/>](https://www.linux.org/) &nbsp; [<img src="https://clockify.me/assets/images/favicon.ico" width="3.5%"/>](https://clockify.me/) &nbsp; [<img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" width="3.5%"/>](https://www.freecodecamp.org/news/vim-key-bindings-reference/)
+[<img src="https://img.icons8.com/color/48/000000/notion.png" width="3.5%"/>](https://www.notion.so/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linux.png" width="3.5%"/>](https://www.linux.org/)
 
 ## 📊 GitHub Analytics
 
