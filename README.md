@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mahmud Reza Rafsun  
 ### Frontend Web Developer | MERN Stack Enthusiast  
 
-![Banner]([https://i.ibb.co/5nN8dFL/coding-banner.jpg](https://ibb.co.com/nqdKvwKN)) <!-- চাইলে নিজের banner image link বসাও -->
+![Banner](https://ibb.co.com/nqdKvwKN)
 
 ---
 
