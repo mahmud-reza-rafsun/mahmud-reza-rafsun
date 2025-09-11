@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">   
-<image src="https://i.ibb.co.com/nMbghDGz/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-cen.jpg" alt="" width="100%" height="50%">
+# Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 ## [rafsun.vercel.app](rafsun.vercel.app)
 
@@ -36,11 +35,3 @@
 
 **Productivity & Systems**  
 [<img src="https://img.icons8.com/color/48/000000/notion.png" width="3.5%"/>](https://www.notion.so/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linux.png" width="3.5%"/>](https://www.linux.org/)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdazizulbari&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazizulbari&theme=gotham&hide_border=true" width="47%" />
-<br/>
-</div>
