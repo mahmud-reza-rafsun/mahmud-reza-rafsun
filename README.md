@@ -29,7 +29,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 </p>
 <br/>
 
-  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=8854d0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="rafsun" />
+  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-reza-rafsun&show_icons=true&locale=en&layout=pie&bg_color=8854d0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="rafsun" />
 
 <h3>🖥️ Technologies I am Moderately Skilled In :-</h3>
 <p>
