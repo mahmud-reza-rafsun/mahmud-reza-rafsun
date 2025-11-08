@@ -1,12 +1,10 @@
-[Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)
 
-  <!-- <img width="846px" hight="475.875px" src="https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09" alt="fardus-hassan" /> -->
 
 <hr/>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Barishal , Bangladesh</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=9571EB&style=flat" alt="fardus-hassan" /> 
+  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=9571EB&style=flat" alt="rafsun" /> 
 </p>
 
 ## About Me
@@ -14,23 +12,9 @@
 I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
 
 <p align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmud-reza-rafsun&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
 
 </p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&locale=en" alt="fardus-hassan" /></p>-->
-
-<!--<picture align="right">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: #2661AD)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true"
-    media="(prefers-color-scheme: #2661AD), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true" />
-</picture>-->
 
 <h3>⚙️ Technologies I am Proficient In :-</h3>
 <p>
@@ -80,9 +64,12 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 <h3  align="center">📞 Connect with me :-</h3>
 <p  align="center">
-<a href="https://www.linkedin.com/in/rafsun-dev" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Rafsun LinkedIn" height="50" width="50" /></a>
-<a href="https://www.facebook.com/rafsun.dev" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
-<a href="https://api.whatsapp.com/send/?phone=8801628745520&text&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Rafsun LinkedIn" height="50" width="50" /></a>
+<a href="https://www.facebook.com/rafsun.dev" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801628745520&text&type=phone_number&app_absent=0" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Rafsun Email" height="50" width="50" /></a>
 <a href="https://rafsun.vercel.app" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Rafsun Email" height="50" width="50" /></a>
 </p>
 
