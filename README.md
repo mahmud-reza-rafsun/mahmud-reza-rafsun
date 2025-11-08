@@ -1,10 +1,8 @@
-
-
 <hr/>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Barishal , Bangladesh</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=9571EB&style=flat" alt="rafsun" /> 
+  <img src="https://komarev.com/ghpvc/?username=mahmud-reza-rafsun&label=Profile%20views&color=9571EB&style=flat" alt="rafsun" /> 
 </p>
 
 ## About Me
