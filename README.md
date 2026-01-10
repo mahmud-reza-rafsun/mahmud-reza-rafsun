@@ -1,13 +1,12 @@
 <hr/>
 
 <h1 align="center">Mahmud Reza Rafsun</h1>
-
 <h3 align="center">
 Full Stack Web Developer  
 (TypeScript • JavaScript • Next.js • React • Node.js • Express • PostgreSQL • MongoDB • Prisma)
 </h3>
 
-<p align="center">📍 Dhaka, Bangladesh</p>
+<p align="center">📍 Barishal, Bangladesh</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmud-reza-rafsun&label=Profile%20views&color=9571EB&style=flat" />
@@ -15,12 +14,12 @@ Full Stack Web Developer
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👋 Professional Summary
 
-I am a **Full Stack Web Developer** specializing in building **scalable, high-performance web applications** using modern JavaScript and TypeScript technologies.
+I am a **Full Stack Web Developer** with hands-on experience in building **scalable, production-ready web applications** using modern JavaScript and TypeScript ecosystems.
 
-I have hands-on experience in **frontend architecture, RESTful API development, database design**, and deploying applications to production.  
-I focus on writing **clean, maintainable, and efficient code** that solves real-world problems.
+I specialize in designing **clean frontend architectures**, developing **robust REST APIs**, and working with **relational and NoSQL databases**.  
+My focus is on **performance, maintainability, and real-world problem solving**.
 
 ---
 
@@ -48,93 +47,93 @@ I focus on writing **clean, maintainable, and efficient code** that solves real-
 
 ## 🧰 Technical Skills
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
+
+- Responsive UI development
+- Component-based architecture
+- Server-side rendering & SEO optimization
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 <p>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/express-js.png"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+- RESTful API design
+- Authentication & authorization
+- Middleware-based architecture
 
 ---
 
 ### 🗄️ Databases & ORM
 <p>
-  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/ios-filled/48/ffffff/prisma-orm.png"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma" />
 </p>
+
+- Relational & NoSQL database modeling
+- Data validation & migrations
+- Query optimization
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & DevOps
 <p>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/>
-  <img src="https://img.icons8.com/color/48/vercel.png"/>
-  <img src="https://img.icons8.com/color/48/postman.png"/>
-  <img src="https://img.icons8.com/color/48/figma.png"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
 </p>
+
+- Version control & CI-friendly workflows
+- Deployment & environment configuration
+- API testing & debugging
 
 ---
 
 <img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-reza-rafsun&layout=pie&bg_color=0D1117&title_color=9571EB&text_color=FFFFFF&hide_border=true" />
 
-## 📚 Currently Learning & Improving
+## 📚 Currently Enhancing
+
 <p>
-  <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/color/48/redux.png"/>
+  <img src="https://skillicons.dev/icons?i=docker,redux" />
 </p>
 
-- Scalable backend architecture
+- Advanced backend architecture
 - Performance optimization
-- System design fundamentals
-- Animation libraries (Framer Motion & GSAP)
+- Scalable system design
+- Modern animation libraries (Framer Motion & GSAP)
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Focus
 
-- Build enterprise-grade full stack applications
-- Contribute to real-world production systems
-- Work in collaborative development teams
-- Open to **Junior / Mid-level Full Stack Developer roles**
+- Building enterprise-grade full stack applications
+- Writing clean, maintainable TypeScript code
+- Collaborating in team-based environments
+- Actively seeking **Junior to Mid-level Full Stack Developer roles**
 
 ---
 
-<h3 align="center">📞 Connect With Me</h3>
+<h3 align="center">📞 Professional Contact</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="https://github.com/mahmud-reza-rafsun" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/>
-  </a>
-  <a href="https://www.facebook.com/rafsun.dev" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=8801628745520" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png"/>
-  </a>
-  <a href="https://rafsun.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png"/>
-  </a>
+<a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="https://www.facebook.com/rafsun.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=8801628745520" target="_blank">
+  <img src="https://img.icons8.com/color/48/whatsapp.png" height="45"/>
+</a>
+<a href="https://rafsun.vercel.app" target="_blank">
+  <img src="https://img.icons8.com/color/48/domain.png" height="45"/>
+</a>
 </p>
 
 ---
 
 📧 **Email:** `rafsun16.it@gmail.com`  
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
