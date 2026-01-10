@@ -10,8 +10,23 @@
 I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
 
 <p align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmud-reza-rafsun&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
-
+  <img
+    width="85%"
+    src="https://github-readme-streak-stats.herokuapp.com
+      ?user=mahmud-reza-rafsun
+      &theme=react
+      &hide_border=true
+      &background=0D1117
+      &stroke=9571EB
+      &fire=ecf0f1
+      &sideLabels=9571EB
+      &currStreakNum=9571EB
+      &ring=9571EB
+      &currStreakLabel=9571EB
+      &sideNums=9571EB
+      &dates=9571EB"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <h3>⚙️ Technologies I am Proficient In :-</h3>
