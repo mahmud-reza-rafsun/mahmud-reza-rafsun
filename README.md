@@ -5,12 +5,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://i.ibb.co.com/6RxdjFDh/9333196-A-CA48-4-B18-A022-2-A65193468-E6.png" width="110" style="border-radius:50%" alt="avatar"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm Mahmud Reza Rafsun</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2F+Next.js+%2F+Node.js+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Real+World+Projects" alt="Typing SVG" />
 </p>
