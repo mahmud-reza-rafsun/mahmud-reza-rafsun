@@ -72,23 +72,27 @@
 </p>
 
 ### 🔐 Auth & Others
-
+ 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kali,postman" height="48" alt="Kali Linux & Postman"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=shield&logoColor=white" height="48" alt="BetterAuth"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" alt="JWT"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-reza-rafsun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
+  &nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=better-auth" height="48" alt="BetterAuth"/>
+</p>
+---
+ 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-reza-rafsun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+</p>
+---
+ 
+## 🗣️ Top Languages
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
