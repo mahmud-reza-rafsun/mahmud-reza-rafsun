@@ -74,14 +74,15 @@
 ### 🛠️ Tools
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
+
 ### 🔐 Auth & Security
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux"/>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=better-auth" height="48" alt="BetterAuth"/>
+  <img src="https://avatars.githubusercontent.com/u/163827765?v=4" height="48" alt="BetterAuth"/>
   &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
 </p>
@@ -90,14 +91,21 @@
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-reza-rafsun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmud-reza-rafsun&theme=tokyonight" alt="GitHub Stats" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-reza-rafsun&theme=tokyonight" alt="Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmud-reza-rafsun&theme=tokyonight&utcOffset=6" alt="Productive Time" height="160"/>
 </p>
 ---
  
 ## 🗣️ Top Languages
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-reza-rafsun&theme=tokyonight" alt="Repos Per Language" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmud-reza-rafsun&theme=tokyonight" alt="Most Commit Language" height="160"/>
 </p>
 
 
