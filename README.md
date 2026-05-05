@@ -1,10 +1,7 @@
 <hr/>
 
 <h1 align="center">Mahmud Reza Rafsun</h1>
-<h3 align="center">
-Full Stack Web Developer  
-(TypeScript • JavaScript • Next.js • React • Node.js • Express • PostgreSQL • MongoDB • Prisma)
-</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">📍 Barishal, Bangladesh</p>
 
@@ -14,14 +11,20 @@ Full Stack Web Developer
 
 ---
 
-## 👋 Professional Summary
+## 👋 About Me
 
-I am a **Full Stack Web Developer** with hands-on experience in building **scalable, production-ready web applications** using modern JavaScript and TypeScript ecosystems.
+I am a **Full Stack Web Developer** focused on building **scalable, production-ready applications** using modern technologies.
 
-I specialize in designing **clean frontend architectures**, developing **robust REST APIs**, and working with **relational and NoSQL databases**.  
-My focus is on **performance, maintainability, and real-world problem solving**.
+I specialize in:
+- Clean and maintainable **frontend architecture**
+- Secure and efficient **backend systems**
+- Designing **real-world solutions**
+
+💡 I aim to write **high-quality, performance-driven code** and contribute to impactful products.
 
 ---
+
+## 🔥 GitHub Activity
 
 <p align="center">
   <img
@@ -39,83 +42,88 @@ My focus is on **performance, maintainability, and real-world problem solving**.
       &currStreakLabel=9571EB
       &sideNums=9571EB
       &dates=9571EB"
-    alt="GitHub Streak Stats"
   />
 </p>
 
 ---
 
-## 🧰 Technical Skills
+## 🧠 Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 </p>
 
-- Responsive UI development
-- Component-based architecture
-- Server-side rendering & SEO optimization
+- Component-based architecture  
+- Responsive & mobile-first UI  
+- SEO & performance optimization  
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-- RESTful API design
-- Authentication & authorization
-- Middleware-based architecture
+- REST API development  
+- Authentication & authorization  
+- Scalable backend structure  
 
 ---
 
-### 🗄️ Databases & ORM
+### 🗄️ Database & ORM
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma" />
 </p>
 
-- Relational & NoSQL database modeling
-- Data validation & migrations
-- Query optimization
+- Relational & NoSQL databases  
+- Data modeling & migrations  
+- Query optimization  
 
 ---
 
-### 🛠️ Tools & DevOps
+### 🛠️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,postman,figma" />
 </p>
 
-- Version control & CI-friendly workflows
-- Deployment & environment configuration
-- API testing & debugging
+- Version control & collaboration  
+- Deployment pipelines  
+- API testing & debugging  
+
+---
+
+### 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+- Comfortable in both **Windows & Linux environments**  
+- Basic server handling & CLI workflows  
 
 ---
 
 <img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-reza-rafsun&layout=pie&bg_color=0D1117&title_color=9571EB&text_color=FFFFFF&hide_border=true" />
 
-## 📚 Currently Enhancing
+## 📈 Currently Improving
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redux" />
-</p>
-
-- Advanced backend architecture
-- Performance optimization
-- Scalable system design
-- Modern animation libraries (Framer Motion & GSAP)
+- Advanced backend architecture  
+- Scalable system design  
+- Performance optimization  
+- Animation (Framer Motion, GSAP)  
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Goal
 
-- Building enterprise-grade full stack applications
-- Writing clean, maintainable TypeScript code
-- Collaborating in team-based environments
-- Actively seeking **Junior to Mid-level Full Stack Developer roles**
+- Build **enterprise-level applications**  
+- Write **clean, maintainable TypeScript code**  
+- Work in **collaborative engineering teams**  
+- Open to **Junior → Mid-level Full Stack roles**  
 
 ---
 
-<h3 align="center">📞 Professional Contact</h3>
+## 📞 Contact Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
@@ -136,4 +144,4 @@ My focus is on **performance, maintainability, and real-world problem solving**.
 
 📧 **Email:** `rafsun16.it@gmail.com`  
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me.
