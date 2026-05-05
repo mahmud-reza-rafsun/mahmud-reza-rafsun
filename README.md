@@ -69,25 +69,29 @@
 </p>
 
 ### 🔐 Auth & Others
-
+ 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="BetterAuth"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01Bt8Mnxbl0M9ndLySHAWUiJ8jSATORV7QQ&s" height="48" width="48" style="border-radius:8px" alt="BetterAuth"/>
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="48" width="48" style="border-radius:8px" alt="JWT"/>
+  &nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="48" width="48" style="border-radius:8px" alt="Postman"/>
 </p>
-
 ---
-
+ 
 ## 📈 GitHub Stats
-
+ 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmud-reza-rafsun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages"/>
+</p>
+---
+ 
+## 🗣️ Top Languages
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages"/>
 </p>
 
 ---
