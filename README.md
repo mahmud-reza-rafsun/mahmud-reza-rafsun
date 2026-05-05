@@ -32,8 +32,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/rafsun.dev" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="40" alt="Facebook"/>
+   <a href="https://www.facebook.com/rafsun.dev" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" height="40" alt="Facebook"/>
   </a>
 </p>
 
