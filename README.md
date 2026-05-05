@@ -44,7 +44,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn" height="48"/>
 </p>
 
 ### ⚙️ Backend
