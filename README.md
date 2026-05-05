@@ -50,7 +50,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcnui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
