@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmud Reza Rafsun
 
-<img src="https://i.ibb.co.com/6RxdjFDh/9333196-A-CA48-4-B18-A022-2-A65193468-E6.png?q=80&w=1600&auto=format&fit=crop" />
+<img src="https://i.ibb.co.com/6RxdjFDh/9333196-A-CA48-4-B18-A022-2-A65193468-E6.png?q=80&w=3200&auto=format&fit=crop" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2F+Next.js+%2F+Node.js+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Real+World+Projects" />
