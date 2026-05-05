@@ -65,20 +65,25 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,redis" />
 </p>
 
-### ☁️ DevOps & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode" />
-</p>
-
-### 🔐 Auth & Others
+### ☁️ DevOps
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,postman" height="48" alt="Kali Linux & Postman"/>
-  &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+</p>
+### 🛠️ Tools
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+### 🔐 Auth & Security
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux"/>
   &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=better-auth" height="48" alt="BetterAuth"/>
+  &nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
 </p>
 ---
  
@@ -94,6 +99,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
+
 
 ---
 
