@@ -1,147 +1,125 @@
-<hr/>
+# Hi 👋, I'm Mahmud Reza Rafsun
 
-<h1 align="center">Mahmud Reza Rafsun</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-<p align="center">📍 Barishal, Bangladesh</p>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmud-reza-rafsun&label=Profile%20views&color=9571EB&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2F+Next.js+%2F+Node.js+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Real+World+Projects" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I am a **Full Stack Web Developer** focused on building **scalable, production-ready applications** using modern technologies.
-
-I specialize in:
-- Clean and maintainable **frontend architecture**
-- Secure and efficient **backend systems**
-- Designing **real-world solutions**
-
-💡 I aim to write **high-quality, performance-driven code** and contribute to impactful products.
+💻 Passionate **Full Stack Developer**  
+⚙️ Building **scalable & production-ready apps**  
+🎯 Focused on **clean architecture & performance**  
+🚀 Exploring **advanced backend & system design**
 
 ---
 
-## 🔥 GitHub Activity
+## 🌐 Connect With Me
 
-<p align="center">
-  <img
-    width="85%"
-    src="https://github-readme-streak-stats.herokuapp.com
-      ?user=mahmud-reza-rafsun
-      &theme=react
-      &hide_border=true
-      &background=0D1117
-      &stroke=9571EB
-      &fire=ecf0f1
-      &sideLabels=9571EB
-      &currStreakNum=9571EB
-      &ring=9571EB
-      &currStreakLabel=9571EB
-      &sideNums=9571EB
-      &dates=9571EB"
-  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rafsun16.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/rafsun.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-6366F1?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,shadcn" />
 </p>
-
-- Component-based architecture  
-- Responsive & mobile-first UI  
-- SEO & performance optimization  
 
 ---
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-- REST API development  
-- Authentication & authorization  
-- Scalable backend structure  
 
 ---
 
 ### 🗄️ Database & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb" />
 </p>
 
-- Relational & NoSQL databases  
-- Data modeling & migrations  
-- Query optimization  
-
 ---
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,postman,figma" />
+### ☁️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
 </p>
 
-- Version control & collaboration  
-- Deployment pipelines  
-- API testing & debugging  
-
 ---
 
-### 💻 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+### 🔐 Auth & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge" />
 </p>
 
-- Comfortable in both **Windows & Linux environments**  
-- Basic server handling & CLI workflows  
+---
+
+## 🔭 Current Activities
+
+- 🔥 Improving backend architecture  
+- ⚡ Learning scalable system design  
+- 🎯 Working on real-world full stack projects  
+- 📦 Exploring Docker & Kubernetes  
 
 ---
 
-<img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-reza-rafsun&layout=pie&bg_color=0D1117&title_color=9571EB&text_color=FFFFFF&hide_border=true" />
+## 🎯 Goals
 
-## 📈 Currently Improving
-
-- Advanced backend architecture  
-- Scalable system design  
-- Performance optimization  
-- Animation (Framer Motion, GSAP)  
+- 🚀 Become a **mid-level full stack developer**  
+- 💼 Work on **production-grade applications**  
+- 🧠 Master **system design & performance**  
 
 ---
 
-## 🎯 Career Goal
-
-- Build **enterprise-level applications**  
-- Write **clean, maintainable TypeScript code**  
-- Work in **collaborative engineering teams**  
-- Open to **Junior → Mid-level Full Stack roles**  
-
----
-
-## 📞 Contact Me
+## 📈 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafsun-dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-<a href="https://www.facebook.com/rafsun.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="45" />
-</a>
-<a href="https://api.whatsapp.com/send/?phone=8801628745520" target="_blank">
-  <img src="https://img.icons8.com/color/48/whatsapp.png" height="45"/>
-</a>
-<a href="https://rafsun.vercel.app" target="_blank">
-  <img src="https://img.icons8.com/color/48/domain.png" height="45"/>
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmud-reza-rafsun&theme=tokyonight" />
 </p>
 
 ---
 
-📧 **Email:** `rafsun16.it@gmail.com`  
+## 💻 Top Languages
 
-⭐ Feel free to explore my repositories and connect with me.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-reza-rafsun&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahmud-reza-rafsun&theme=tokyonight&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmud-reza-rafsun&color=6366F1&style=flat-square" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+✨ I enjoy turning complex problems into simple, elegant solutions
