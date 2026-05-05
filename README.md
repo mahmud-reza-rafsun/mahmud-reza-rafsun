@@ -50,7 +50,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcnui" />
 </p>
 
 ### ⚙️ Backend
@@ -71,6 +71,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
 </p>
+
 ### 🛠️ Tools
  
 <p align="left">
@@ -86,7 +87,6 @@
   &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
 </p>
----
  
 ## 📊 GitHub Stats
  
@@ -94,11 +94,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmud-reza-rafsun&theme=tokyonight" alt="GitHub Stats" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-reza-rafsun&theme=tokyonight" alt="Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmud-reza-rafsun&theme=tokyonight&utcOffset=6" alt="Productive Time" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-reza-rafsun&theme=tokyonight" alt="Stats"/>
 </p>
----
  
 ## 🗣️ Top Languages
  
