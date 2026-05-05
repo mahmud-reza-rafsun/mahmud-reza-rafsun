@@ -33,7 +33,7 @@
   </a>
   &nbsp;
   <a href="https://www.facebook.com/rafsun.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook"/>
+    <img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="40" alt="Facebook"/>
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn" />
 </p>
 
 ### ⚙️ Backend
