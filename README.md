@@ -1,6 +1,6 @@
 <!-- Banner -->
 <a href="https://github.com/mahmud-reza-rafsun">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Mahmud%20Reza%20Rafsun&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Mahmud%20Reza%20Rafsun&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
 <br/>
