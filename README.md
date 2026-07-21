@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate **Full Stack Developer** crafting production-ready applications
+- 💻 Passionate **Full Stack Engineer** crafting production-ready applications
 - ⚙️ Building **scalable systems** with clean architecture & performance in mind
 - 🎯 Deep focus on **backend engineering & system design**
 - 🚀 Currently exploring **Docker, Kubernetes & distributed systems**
