@@ -87,15 +87,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-reza-rafsun&theme=tokyonight" alt="Repos Per Language" height="160"/>
 </p>
 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmud-reza-rafsun&theme=tokyonight&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
