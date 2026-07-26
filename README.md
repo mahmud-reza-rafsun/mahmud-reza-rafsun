@@ -75,28 +75,16 @@
 ### 🔐 Auth & Security
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux"/>
-  &nbsp;
   <img src="https://avatars.githubusercontent.com/u/163827765?v=4" height="48" alt="BetterAuth"/>
   &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" alt="JWT"/>
 </p>
  
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmud-reza-rafsun&theme=tokyonight" alt="GitHub Stats" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-reza-rafsun&theme=tokyonight" alt="Stats"/>
-</p>
  
 ## 🗣️ Top Languages
  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-reza-rafsun&theme=tokyonight" alt="Repos Per Language" height="160"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmud-reza-rafsun&theme=tokyonight" alt="Most Commit Language" height="160"/>
 </p>
 
 
